@@ -1,0 +1,8 @@
+hello
+goodbye
+morning
+lunch
+dinner
+afternoon
+computer
+phone
